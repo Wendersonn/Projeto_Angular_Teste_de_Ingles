@@ -24,7 +24,7 @@
               "src/assets"
             ],
             "styles": [
-              "../Projeto_Angular_Teste_de_Ingles/app1/node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "./node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
